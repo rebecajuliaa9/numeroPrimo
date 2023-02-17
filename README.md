@@ -1,2 +1,2 @@
 # Número Primo 
-##Esse código valida em C se um número é primo ou não.
+Esse código valida em C se um número é primo ou não.
